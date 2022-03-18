@@ -27,7 +27,7 @@ $ python3 main.py
 
 ## Download
 
-You can [download](https://github.com/CaioFreddy/gallows-game/releases/tag/v0.1.0) the latest installable version of Gallow Game for Windows, macOS and Linux.
+You can [download](https://github.com/CaioFreddy/gallows-game/releases/tag/v0.1.0-alpha) the latest installable version of Gallow Game for Windows, macOS and Linux.
 
 ## Credits
 
