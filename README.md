@@ -1,5 +1,5 @@
 <h1>
-  Gallows Game
+  Word Guess Game
 </h1>
 
 <h4 align="center">A word guess game based with got characters.</h4>
@@ -16,10 +16,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/CaioFreddy/gallows-game
+$ git clone https://github.com/CaioFreddy/word-guess-game
 
 # Go into the repository
-$ cd gallows-game
+$ cd word-guess-game
 
 # Run the app
 $ python3 main.py
@@ -27,7 +27,7 @@ $ python3 main.py
 
 ## Download
 
-You can [download](https://github.com/CaioFreddy/gallows-game/releases/tag/v0.1.0-alpha) the latest installable version of Gallow Game for Windows, macOS and Linux.
+You can [download](https://github.com/CaioFreddy/word-guess-game/releases/tag/v0.1.0-alpha) the latest installable version of Gallow Game for Windows, macOS and Linux.
 
 ## Credits
 
