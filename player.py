@@ -1,3 +1,8 @@
+"""
+Module with the Player Class
+"""
+
+
 class Player:
     """
     Class responsible to manage the player
@@ -11,12 +16,15 @@ class Player:
         self.greeting_player()
 
     def display_player_name(self):
+        """Returns the player name"""
         return self._name
 
     def display_games_played(self):
+        """Returns the number of games played"""
         return self.played
 
     def display_number_of_wins(self):
+        """Returns the number of wins"""
         return self.wins
 
     def greeting_player(self):
@@ -31,5 +39,6 @@ class Player:
         if True, print congratulations and increase the self.wins
         """
         if win:
+            print("Congratulations! You Won!")
             self.wins += 1
         self.played += 1
