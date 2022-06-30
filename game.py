@@ -81,6 +81,7 @@ class Game:
             print("Invalid input, please insert only one char!")
             guess = input("Give a shot:")
         self.guesses += guess.lower()
+        self.check_answer()
 
     def handle_turn(self):
         """
